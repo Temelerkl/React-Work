@@ -1,0 +1,4 @@
+/*Sonuç olarak hangi sayfaya geçiş yaparsam o sayfanın isminin arkasında sarı renk olucak.Bunu farklı işlemler içinde kullanabilirim.*/
+.active {
+  background-color: yellow;
+}
